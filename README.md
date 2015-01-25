@@ -1,4 +1,5 @@
 ![](http://i.imgur.com/GMBHlAI.jpg)
+![](https://nodei.co/npm/generator-flask-heroku.png?downloads=true&downloadRank=true&stars=true)
 # Yeoman Flask Generator for Heroku
 
   Generator to use Yeoman on a Flask project then deploying on Heroku platform.
